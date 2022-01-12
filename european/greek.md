@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## european --> greek
+## Greek
 ---
 Select a restaurant:
 ## [Omonia Cafe](https://omoniacafe.com/)
